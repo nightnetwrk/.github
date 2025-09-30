@@ -10,7 +10,7 @@
 
 ## Upcoming Projects
 
- - Midnight. (Still unsure about this but would be the sequel to Night. v3 as a v4)
+ - Midnight. (Still unsure about this but would be the sequel to Night. v3 as a complete refresh
 
 ## Important Info
 
