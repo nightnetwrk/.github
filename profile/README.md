@@ -6,7 +6,7 @@
 
 ## Current Projects
 
- - Night. v1 (lost) | Night. v2 (retired) | [Night. v3 in production](https://usenight.vercel.app)
+ - Night. v1 (lost) | Night. v2 (retired) | [Night. v3 in production](https://usenight.vercel.app) | [Night. Lite in production](https://night-lite.vercel.app)
 
 ## Upcoming Projects
 
