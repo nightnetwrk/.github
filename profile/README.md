@@ -6,11 +6,11 @@
 
 ## Current Projects
 
- - Night. v1 (lost) | Night. v2 (retired) | [Night. v3 in production](https://usenight.vercel.app) | [Night. Lite in production](https://night-lite.vercel.app)
+ - Night. v1 (lost) | Night. v2 (retired) | [Night. v3 (retired)](https://usenight.vercel.app) | [Night. Lite (abandoned)](https://night-lite.vercel.app)
 
 ## Upcoming Projects
 
- - Midnight. (Still unsure about this but would be the sequel to Night. v3 as a complete refresh
+ - Midnight. (Still unsure about this but would be the sequel to Night. v3 as a complete refresh (Cancelled)
 
 ## Important Info
 
@@ -19,5 +19,4 @@
  
 ## Authors
 
-- [@vinhutl](https://www.github.com/vinhutl)
-
+Anonymouse2234
